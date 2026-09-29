@@ -30,4 +30,4 @@ python3 cuestionario3.py --interactivo
 
 ## Autor
 
-Nombre y código del estudiante
+Trujillo Solis Justin 25190033
